@@ -1,0 +1,208 @@
+SI no.,Category,Opening time,Closing time
+1,Arts & Crafts Store,10,19
+2,Bridge,0,24
+3,Home (private),0,24
+4,Mobile Phone Shop,9,17
+5,Automotive Shop,0,24
+6,Food & Drink Shop,10,20
+7,Government Building,8,17
+8,Ferry,0,24
+9,Office,8,17
+10,Music Venue,18,2
+11,Subway,7,1
+12,Student Center,9,17
+13,Park,6,1
+14,Road,0,24
+15,Burger Joint,11,23
+16,Bank,7,19
+17,Coffee Shop,7,18
+18,Clothing Store,8,19
+19,Neighborhood,0,24
+20,Electronics Store,10,21
+21,Ice Cream Shop,12,24
+22,Tattoo Parlor,12,21
+23,Deli / Bodega,7,21
+24,University,8,21
+25,Bus Station,0,24
+26,Light Rail,5,1
+27,Mexican Restaurant,7,21
+28,Other Great Outdoors,6,1
+29,American Restaurant,7,23
+30,BBQ Joint,12,22
+31,Other Nightlife,20,0
+32,Building,0,24
+33,College Academic Building,6,2
+34,Airport,0,24
+35,Train Station,0,24
+36,Department Store,10,21
+37,Tanning Salon,8,22
+38,Gym / Fitness Center,6,22
+39,Medical Center,0,24
+40,Spanish Restaurant,8,21
+41,Moving Target,8,22
+42,Factory,7,18
+43,School,8,17
+44,Hotel,8,24
+45,Burrito Place,8,21
+46,Mall,10,20
+47,Fast Food Restaurant,7,0
+48,Hardware Store,8,18
+49,Bar,8,4
+50,Bookstore,10,20
+51,Campground,8,11
+52,Cupcake Shop,8,23
+53,Gas Station / Garage,8,16
+54,Parking,9,22
+55,Toy / Game Store,10,19
+56,General Travel,9,20
+57,Residential Building (Apartment / Condo),0,24
+58,Laundry Service,7,21
+59,Chinese Restaurant,9,22
+60,Convention Center,9,17
+61,Drugstore / Pharmacy,9,23
+62,Community College,7,23
+63,Stadium,10,21
+64,Bagel Shop,6,16
+65,Vegetarian / Vegan Restaurant,9,22
+66,Candy Store,7,22
+67,Miscellaneous Shop,9,22
+68,Pizza Place,10,3
+69,General College & University,7,22
+70,Movie Theater,10,21
+71,Sandwich Place,9,8
+72,Scenic Lookout,10,22
+73,Housing Development,8,5
+74,Theater,10,23
+75,Synagogue,10,16
+76,General Entertainment,10,23
+77,Pool,9,1
+78,German Restaurant,11,23
+79,Bowling Alley,4,23
+80,Smoke Shop,8,0
+81,Plaza,10,22
+82,Harbor / Marina,8,17
+83,Latin American Restaurant,7,22
+84,Café,7,23
+85,River,0,24
+86,Comedy Club,7,0
+87,Breakfast Spot,7,17
+88,Playground,7,18
+89,Malaysian Restaurant,11,21
+90,Diner,7,22
+91,Bakery,8,22
+92,Fried Chicken Joint,11,22
+93,Beach,0,24
+94,Arcade,10,2
+95,Post Office,7,17
+96,Donut Shop,7,22
+97,Sporting Goods Shop,9,19
+98,High School,8,15
+99,Athletic & Sport,8,20
+100,French Restaurant,8,0
+101,Snack Place,10,22
+102,College & University,7,19
+103,Italian Restaurant,10,1
+104,Rest Area,0,24
+105,Furniture / Home Store,10,21
+106,Food Truck,10,16
+107,Bridal Shop,10,19
+108,Seafood Restaurant,9,22
+109,Art Gallery,9,21
+110,Church,8,18
+111,Salad Place,10,20
+112,Sculpture Garden,0,24
+113,Restaurant,8,23
+114,Wings Joint,11,21
+115,Paper / Office Supplies Store,8,17
+116,Japanese Restaurant,11,21
+117,Salon / Barbershop,8,20
+118,Falafel Restaurant,11,22
+119,City,0,24
+120,Middle Eastern Restaurant,11,23
+121,Professional & Other Places,8,19
+122,Convenience Store,0,24
+123,Tea Room,8,17
+124,Asian Restaurant,11,0
+125,Performing Arts Venue,10,22
+126,Event Space,9,1
+127,Spa / Massage,9,0
+128,Garden,7,1
+129,Flea Market,12,20
+130,Beer Garden,16,2
+131,Hobby Shop,11,19
+132,Art Museum,10,17
+133,Ramen /  Noodle House,12,22
+134,Concert Hall,18,2
+135,Pet Store,0,24
+136,Brewery,11,0
+137,Hot Dog Joint,11,1
+138,Cajun / Creole Restaurant,17,23
+139,Mac & Cheese Joint,9,22
+140,Cemetery,9,17
+141,Korean Restaurant,12,22
+142,Sushi Restaurant,11,22
+143,Gastropub,15,2
+144,Caribbean Restaurant,16,1
+145,African Restaurant,12,2
+146,Library,10,19
+147,Cosmetics Shop,8,22
+148,Cuban Restaurant,12,0
+149,Indian Restaurant,17,22
+150,Dessert Shop,11,0
+151,Thai Restaurant,11,22
+152,Recycling Facility,0,24
+153,Law School,7,23
+154,Historic Site,0,24
+155,Outdoors & Recreation,9,18
+156,Zoo,10,17
+157,Animal Shelter,12,18
+158,Mediterranean Restaurant,11,22
+159,Travel Lounge,5,23
+160,Trade School,8,21
+161,Soup Place,11,20
+162,Temple,8,21
+163,Taxi,0,24
+164,Casino,10,4
+165,Funeral Home,0,24
+166,Shrine,10,17
+167,Taco Place,11,2
+168,Science Museum,10,17
+169,Gift Shop,9,0
+170,Food,11,4
+171,Travel & Transport,0,24
+172,Museum,10,17
+173,Eastern European Restaurant,12,22
+174,Australian Restaurant,8,23
+175,Steakhouse,12,22
+176,Pool Hall,13,3
+177,Dumpling Restaurant,11,21
+178,Vietnamese Restaurant,11,21
+179,Jewelry Store,10,19
+180,Camera Store,9,21
+181,Southern / Soul Food Restaurant,17,2
+182,Elementary School,7,17
+183,Thrift / Vintage Store,12,19
+184,Aquarium,10,17
+185,Middle School,0,24
+186,College Stadium,8,21
+187,South American Restaurant,7,23
+188,Arts & Entertainment,10,22
+189,Tapas Restaurant,15,0
+190,Nursery School,8,16
+191,Antique Shop,11,18
+192,Racetrack,9,17
+193,Filipino Restaurant,11,22
+194,Molecular Gastronomy Restaurant,17,23
+195,Brazilian Restaurant,11,21
+196,Design Studio,10,18
+197,Military Base,0,24
+198,Swiss Restaurant,16,22
+199,Market,8,22
+200,Rental Car Location,0,24
+201,Financial or Legal Service,9,17
+202,Dim Sum Restaurant,10,3
+203,Spiritual Center,6,20
+204,Scandinavian Restaurant,10,20
+205,Fair,10,18
+206,Music Store,11,21
+207,Garden Center,7,22
